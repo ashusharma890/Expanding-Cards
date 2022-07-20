@@ -2,7 +2,7 @@
 
 This is an practice Assignment in which a simple dynamic web page is created which showcases  basic expanding cards for interactive view using Javascript!
 
-Images are attached for reference & download purpose as link in index.html file.
+Images are attached for reference & download purpose as link in style.css file.
 
 HTML code is in index.html file & the CSS styling is done in the style.css file and the Javascript functionality in index.js file!
 
